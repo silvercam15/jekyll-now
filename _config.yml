@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-#theme: minima
+theme: minima
 # Name of your site (displayed in the header)
 name: Silvia Camara
 
@@ -84,5 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-minimal
